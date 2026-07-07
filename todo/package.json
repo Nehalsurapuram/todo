@@ -1,0 +1,12 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "A simple vanilla JavaScript todo app",
+  "private": true,
+  "scripts": {
+    "start": "echo Open index.html in a browser"
+  },
+  "keywords": ["todo", "javascript", "vanilla"],
+  "author": "",
+  "license": "MIT"
+}
